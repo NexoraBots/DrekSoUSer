@@ -23,8 +23,8 @@ from utils.utils import CipherElite
 from utils.decorators import rishabh
 
 # ──────────────────────────────────────────────────────────────
-GITHUB_OWNER  = "rishabhops"
-GITHUB_REPO   = "CipherElite"
+GITHUB_OWNER  = "NexoraBots"
+GITHUB_REPO   = "DrekSoUSer"
 GITHUB_BRANCH = "elite"
 API_BASE      = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}"
 RAW_BASE      = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{GITHUB_BRANCH}"
